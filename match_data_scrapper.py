@@ -1,0 +1,1 @@
+# This script scrapes match data from a understatapi and saves it to a CSV file.
