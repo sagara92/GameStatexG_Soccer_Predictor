@@ -11,7 +11,7 @@ This project is an end-to-end proof of concept for English Premier League (EPL) 
 
 
 ## App Development ... Coming soon...
-
+- `See eda_model_train.ipynb` for the detail
 
 ## Data & Privacy
 
