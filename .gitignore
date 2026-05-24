@@ -1,2 +1,4 @@
 EPL_2025/
 feature_engineering.py
+.test_cases/
+__pycache__/
