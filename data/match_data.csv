@@ -369,3 +369,13 @@ match_id,home_team,away_team,h_goals,a_goals,h_shot,a_shot,h_xg,a_xg,h_shotOnTar
 29145,Manchester United,Nottingham Forest,3,2,29,11,4.28532,1.84418,8,4,10.04,13.8333
 29146,Newcastle United,West Ham,3,1,15,15,2.1336,0.957771,7,8,11.4118,10.2308
 29147,Wolverhampton Wanderers,Fulham,1,1,11,13,1.49725,1.48412,3,5,12.4444,6.7368
+29148,Brighton,Manchester United,0,3,13,11,0.702398,2.32868,2,7,7.6129,15.7059
+29149,Burnley,Wolverhampton Wanderers,1,1,16,16,1.28476,2.8433,8,4,9.3571,13.6667
+29150,Crystal Palace,Arsenal,1,2,8,17,1.00492,3.90645,3,7,17.75,9.8889
+29151,Fulham,Newcastle United,2,0,21,7,1.72878,0.24232,6,2,11.4444,12.7647
+29152,Liverpool,Brentford,1,1,24,11,2.99412,1.46082,8,2,11.7059,12.2222
+29153,Manchester City,Aston Villa,1,2,16,12,1.38085,2.4397,3,5,16.2,20.7
+29154,Nottingham Forest,Bournemouth,1,1,15,17,2.05852,1.33684,5,4,17.9167,8.0
+29155,Sunderland,Chelsea,2,1,21,8,2.33109,0.920885,6,3,7.9375,17.2727
+29156,Tottenham,Everton,1,0,20,9,1.40597,0.268476,2,1,7.5,7.7931
+29157,West Ham,Leeds,3,0,16,13,2.73135,1.94969,9,3,16.4706,5.1333
