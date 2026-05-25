@@ -1,4 +1,4 @@
-# Predict Soccer Matches using Machine Learning Models such as XGBoost
+# Predict Soccer Matches using Machine Learning Models
 
 This project is an end-to-end proof of concept for English Premier League (EPL) exploratory data analysis (EDA) and ML Models predictions:
 
@@ -12,6 +12,8 @@ This project is an end-to-end proof of concept for English Premier League (EPL) 
 
 ## App Development ... Coming soon...
 - See `eda_model_train.ipynb` for the detail
+- App hosted in HuggingFace Space
+- Takes two inputs from user `home team` and `away team`, uses home and away models to predict scores
 
 ## Data & Privacy
 
