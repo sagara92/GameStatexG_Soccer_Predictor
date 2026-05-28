@@ -5,15 +5,16 @@ This project is an end-to-end proof of concept for English Premier League (EPL) 
 - Scrapes season match data from `understatapi`
 - Runs EDA on raw data
 - Creates model-ready features with a private function (hidden by gitignore)
-- Trains a match home/away goals model in Python
-- Serves predictions through a FastAPI endpoint (to be implemented) or through a PWA
+- Trains multiple match home/away goals models in Python
+- Serves predictions through a FastAPI endpoint
 
 
 
-## App Development ... Coming soon...
-- See `eda_model_train.ipynb` for the detail
-- App hosted in HuggingFace Space
-- Takes two inputs from user `home team` and `away team`, uses home and away models to predict scores
+## Web Application
+- See `eda_model_train.ipynb` for model and training detail
+- App is hosted in HuggingFace Space
+- Takes three inputs from user `home team`, `away team`, and `model name`, uses home and away models to predict scores with the probability of each scoreline
+- Web application: [https://www.adhikari-sagar.com.np/projects](https://www.adhikari-sagar.com.np/projects)
 
 ## Data & Privacy
 
